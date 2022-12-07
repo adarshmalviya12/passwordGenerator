@@ -20,10 +20,9 @@ body {
 
 .container h1 div {
   color: rgba(74, 223, 134, 1);
-
 }
 
-#btn{
+#btn {
   height: 32px;
   width: 200px;
   font-size: 16px;
@@ -33,21 +32,21 @@ body {
   border: none;
   border-radius: 6px;
 }
- .line{
+.line {
   width: 400px;
   border-top: 2px solid rgba(47, 62, 83, 1);
- }
-.passwords{
+}
+.passwords {
   display: flex;
   margin-top: 30px;
   width: 450px;
   justify-content: space-between;
 }
-.passwords p{
+.passwords p {
   width: 200px;
-  height: 40px;
+  height: 30px;
+  padding-top: 12px;
   border-radius: 6px;
   background: #273549;
   text-align: center;
 }
-
